@@ -12,7 +12,7 @@
 
 .bg-container {
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
-
+    height:425px;
 }
 
 .send-card {
