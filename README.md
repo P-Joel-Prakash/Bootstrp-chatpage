@@ -38,4 +38,4 @@ URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png
 
 Roboto
 
-site:bootstrapcp.ccbp.tech
+site: https://bootsrapcp.ccbp.tech/
