@@ -1,6 +1,6 @@
-**# Bootstrp-chatpage**
+# Chatpage
 
-**Chat Page**
+**Bootstrap Chat Page**
 
 In this assignment, let's build a Chat Page by applying the concepts we learned till now.
 **Refer to the below image.**
