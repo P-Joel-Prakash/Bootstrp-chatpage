@@ -30,9 +30,12 @@ URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png
 **
 
 #47a3f3
+
 #52606d
 
 
 **CSS Font families used:**
+
 Roboto
+
 site:bootstrapcp.ccbp.tech
